@@ -3,7 +3,7 @@
 Calculadora gráfica desenvolvida em **Python** utilizando a biblioteca **Tkinter**.
 
 #demonstrando 
-<img width="300" height="259" alt="Captura de tela 2026-08-25 180949" src="https://github.com/user-attachments/assets/03e66db2-254e-4cbd-af3f-f16b0592b9a6" />
+<img width="180" height="259" alt="Captura de tela 2026-08-25 180949" src="https://github.com/user-attachments/assets/03e66db2-254e-4cbd-af3f-f16b0592b9a6" />
 
 Este projeto foi desenvolvido como forma de praticar conceitos de Python e desenvolvimento de interfaces gráficas.
 
